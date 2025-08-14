@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sbu fifth apt authen</string>
+    <string name="text_login">Login!</string>
+    <string name="email_hint">Email:</string>
+    <string name="password_hint">Password:</string>
+    <string name="click_to_register">Click to Register!</string>
+    <string name="text_register">Register</string>
+    <string name="register">Register!</string>
+    <string name="click_to_login">click to login</string>
+</resources>

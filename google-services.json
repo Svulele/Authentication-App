@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221320970847",
+    "project_id": "authenticationdemo-48fb6",
+    "storage_bucket": "authenticationdemo-48fb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221320970847:android:f9ecaada7a6eaebf4991ea",
+        "android_client_info": {
+          "package_name": "com.example.sbufifthaptauthen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu-hxqkkMereve8dPV0F9eplujr2kqxpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
